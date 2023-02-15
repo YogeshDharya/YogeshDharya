@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yogesh Dharya</h1>
 <h3 align="center">A recent CSE graduate who is addicted towards Full-Stack ,Cloud and Open-Source .</h3>
-<img src="https://media2.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" align="left">
+<img style=" height:35vh;width:55vw"src="https://media2.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogeshdharya&label=Profile%20views&color=0e75b6&style=flat" alt="yogeshdharya" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogeshdharya" alt="yogeshdharya" /></a> </p>
