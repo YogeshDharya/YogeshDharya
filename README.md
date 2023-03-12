@@ -37,6 +37,11 @@
 <hr>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark" alt="yogeshdharya" /></a> </p>
 <hr>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ddytishidden&label=Profile%20views&color=0e75b6&style=flat" alt="Views" /> </p>
+
+<hr>
+
 <div class="something">
  <div>
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=yogeshdharya&show_icons=true&locale=en&layout=compact" alt="yogeshdharya" /></p>
