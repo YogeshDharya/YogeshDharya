@@ -6,7 +6,7 @@
  
 >  🔭 I’m currently working on an E-Commerce Application and a Travel-Booking Website 
  
-> 👯 I’m looking to collaborate on any Open Source project that operates with JS or Go
+> 👯 I’m looking to collaborate on any Open Source project which incorporates JS or Go Lang
  
 > 🌱 I’m currently learning **Express , NodeJS , MongoDB & Go Lang**
 
