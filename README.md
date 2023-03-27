@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yogesh Dharya</h1>
-<h3 align="center">A recent CSE graduate who is addicted towards Full-Stack ,Cloud and Open-Source .</h3>
+<h1 align="center">Hi 👋 , I'm Yogesh Dharya !</h1>
+<h3 align="center">A recent CSE graduate who enjoys Full-Stack , Cloud and Open-Source .</h3>
 <hr>
 
 <div align="center">
