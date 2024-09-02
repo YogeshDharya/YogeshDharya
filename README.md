@@ -54,7 +54,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/@yogesh_dharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@yogesh_dharya" height="30" width="40" /></a>
+<a href="[https://twitter.com/@yogesh_dharya](https://x.com/YogeshDharya20)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@yogesh_dharya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yogesh-dharya-b6770b1a1/details/skills/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yogesh-dharya-b6770b1a1/details/skills/" height="30" width="40" /></a>
 </p>
 <hr>
